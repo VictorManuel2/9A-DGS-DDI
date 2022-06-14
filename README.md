@@ -1,2 +1,2 @@
-# 9A-DGS-DDI-SistemaCitasMedicas
 Desarrollo para Dispositivos Inteligentes
+Víctor Manuel Ortíz Álvarez-DGS-9A
